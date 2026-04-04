@@ -9,10 +9,10 @@ This repository contains my daily practice of linked list questions in Java.
 
 ## Progress
 
-| Day | Problem Name | Difficulty |
-|------|-------------|------------|
-| 1 | Reverse Linked List | Easy |
-| 2 | Detect Cycle | Medium |
+| Leetcode_no | Problem Name        | Difficulty |
+|-------------|---------------------|------------|
+| 206         | Reverse Linked List | Easy |
+| 203         | Remove Element      | Medium |
 
 ## Language
 Java
