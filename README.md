@@ -14,6 +14,7 @@ This repository contains my daily practice of linked list questions in Java.
 | 206         | Reverse Linked List | Easy |
 | 203         | Remove Element      | Medium |
 | 3217         | delete nodes from linkedList present in array      | Medium |
+| 148         | sort list      | Medium |
 
 ## Language
 Java
