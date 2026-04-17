@@ -15,6 +15,8 @@ This repository contains my daily practice of linked list questions in Java.
 | 203         | Remove Element      | Medium |
 | 3217         | delete nodes from linkedList present in array      | Medium |
 | 148         | sort list      | Medium |
+| 160         | Intersection of two list      | Medium |
+| 21         | merge two list      | Medium |
 
 ## Language
 Java
