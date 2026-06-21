@@ -9,12 +9,13 @@ This repository contains my daily practice of linked list questions in Java.
 
 ## Progress
 
-| Leetcode_no | Problem Name        | Difficulty |
-|-------------|---------------------|------------|
-| 206         | Reverse Linked List | Easy |
-| 203         | Remove Element      | Medium |
-| 3217         | delete nodes from linkedList present in array      | Medium |
-| 148         | sort list      | Medium |
+| Leetcode_no | Problem Name                                  | Difficulty |
+|-------------|-----------------------------------------------|------------|
+| 206         | Reverse Linked List                           | Easy |
+| 203         | Remove Element                                | Medium |
+| 3217        | delete nodes from linkedList present in array | Medium |
+| 148         | sort list                                     | Medium |
+| 876         | middle of linkedlist                          | Medium |
 
 ## Language
 Java
