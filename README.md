@@ -16,6 +16,7 @@ This repository contains my daily practice of linked list questions in Java.
 | 3217        | delete nodes from linkedList present in array | Medium |
 | 148         | sort list                                     | Medium |
 | 876         | middle of linkedlist                          | Medium |
+| 109        |  Convert Sorted List to Binary Search Tree                         | Medium |
 
 ## Language
 Java
